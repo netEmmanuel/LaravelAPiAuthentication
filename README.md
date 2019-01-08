@@ -1,2 +1,2 @@
-# LaravelAPiAuthentication
+# Laravel Authentication
 Laravel JWT Authentication 
